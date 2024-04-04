@@ -35,6 +35,6 @@ python main.py
 ![img_1.png](assets/img_1.png)
 
 
+[demoChess.webm](https://github.com/Times0/MultiChess/assets/45049767/e60899ab-b316-43d9-a362-ca4a581bc6ba)
 
-https://github.com/Times0/MultiChess/assets/45049767/c1290a8d-757e-43f7-ba0d-75e2db992efb
 
